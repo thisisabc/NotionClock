@@ -6,15 +6,19 @@ body {
 	font-family: 'Bodoni Moda', serif;
 	font-size: 1em;
 	border: none;
-}
-
-.flex-container {
-	width: 100vw;
-	height: 100vh;
 	display: flex;
 	justify-content: center;
 	align-items: center;
-	border: 1px solid red;
+}
+
+.flex-container {
+	width: 97vw;
+	height: 97vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	border: 1px solid #CCC;
 	border-radius: 4px;
 }
 
+ 
